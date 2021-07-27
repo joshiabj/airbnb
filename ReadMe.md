@@ -2,11 +2,17 @@
 
 Python Version- 2
 
-The libraries installed/imported include: -matplotlib -seaborn -re -nltk
--WordCloud -sklearn
+The libraries installed/imported include: 
+-matplotlib 
+-seaborn 
+-re 
+-nltk
+-WordCloud 
+-sklearn
 
-2)  PROJECT MOTIVATION As part of the Airbnb inside initiative, this
-    dataset describes the listing activity of home stays in Seattle, WA.
+2)  PROJECT MOTIVATION 
+As part of the Airbnb inside initiative, this dataset describes the 
+listing activity of home stays in Seattle, WA.
 
 After a thorough assessment of the data, the main aim of this analysis
 was to determine the answers to the following three questions: - What
