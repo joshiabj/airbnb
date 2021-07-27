@@ -1,16 +1,10 @@
-1)  INSTALLATIONS
+1)INSTALLATIONS
 
 Python Version- 2
 
-The libraries installed/imported include: 
--matplotlib 
--seaborn 
--re 
--nltk
--WordCloud 
--sklearn
+The libraries installed/imported include: -matplotlib -seaborn -re -nltk -WordCloud -sklearn
 
-2)  PROJECT MOTIVATION 
+2)PROJECT MOTIVATION 
 As part of the Airbnb inside initiative, this dataset describes the 
 listing activity of home stays in Seattle, WA.
 
@@ -20,7 +14,7 @@ are the most expensive Neighborhoods to stay in Seattle and what drives
 the prices?  - What are the key factors that influence price? - Is there
 a relationship between review comments and prices?
 
-3)  FILE DESCRIPTIONS
+3)FILE DESCRIPTIONS
 
 There are three files in this dataset, but I decided to restrict my
 analysis to only two of the datasets namely: listings.csv - includes
