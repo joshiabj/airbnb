@@ -33,6 +33,7 @@ to list their entire homes more often. Also the number of amenities provided wer
 A deep dive into the key factors influencing price revealed that factors such as bedrooms, bathrooms and room type were the main factors that influenced price.
 Correlation was used to see the key factors which an influence on price. Using these key factors, a linear regression model was built to predict the price.
 
+
 Finally we observed that the review comments had no significant effect on the prices of the listed houses. 
 The review comments were generally favorable indicating pleasant experiences for the people.
 Carried out sentiment analysis and correlation analysis to see impact of reviews on prices.
